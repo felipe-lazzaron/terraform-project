@@ -44,6 +44,32 @@ Neste projeto, a infraestrutura na AWS foi implementada utilizando a abordagem d
 - Consideraram-se os custos de todos os recursos utilizados (EC2, ALB, RDS, etc.).
 - Elaborou-se um relatório detalhado com a previsão de custos, destacando os principais gastos e possíveis otimizações.
 
+## Justificativa das escolhas
+
+A escolha da região `us-east-1` (Norte da Virgínia) para implantar a infraestrutura na AWS pode ser justificada por diversos fatores:
+
+1. **Proximidade Geográfica:**
+   - A região `us-east-1` é conhecida por ter uma das maiores quantidades de data centers da AWS. Escolher uma região próxima geograficamente pode resultar em menor latência e melhor desempenho para os usuários finais localizados na América do Norte.
+
+2. **Ampla Disponibilidade de Serviços:**
+   - Sendo uma das regiões mais antigas da AWS, `us-east-1` possui suporte extensivo para uma ampla variedade de serviços, garantindo que a arquitetura proposta possa aproveitar plenamente a gama de opções disponíveis.
+
+3. **Conformidade com Regulamentações:**
+   - Alguns requisitos de conformidade ou regulamentações podem exigir a escolha de uma região específica. `us-east-1` é frequentemente escolhida por organizações que precisam cumprir regulamentações específicas aplicáveis à sua indústria.
+
+4. **Custo:**
+   - O custo dos recursos na AWS pode variar entre regiões. `us-east-1` geralmente oferece preços competitivos, o que pode ser um fator relevante na escolha da região.
+
+5. **Experiência Prévia:**
+   - Se a equipe já possui experiência prévia na região `us-east-1` ou já implantou recursos nessa região, pode ser vantajoso continuar usando a mesma região para manter consistência e familiaridade.
+
+6. **Alta Disponibilidade:**
+   - A região `us-east-1` é projetada para oferecer alta disponibilidade e redundância. A presença de múltiplas zonas de disponibilidade (Availability Zones) permite projetar uma arquitetura resiliente.
+
+7. **Comunidade e Suporte:**
+   - Regiões mais antigas e estabelecidas, como `us-east-1`, tendem a ter uma comunidade ativa e recursos de suporte mais robustos, o que pode ser valioso em caso de necessidade de ajuda técnica.
+
+
 ## Guia de Validação da Infraestrutura
 
 
