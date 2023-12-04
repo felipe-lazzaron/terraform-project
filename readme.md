@@ -5,7 +5,7 @@ Neste projeto, a infraestrutura na AWS foi implementada utilizando a abordagem d
 
 ## Infraestrutura Implementada
 
-![Diagrama da Arquitetura](https://github.com/felipe-lazzaron/terraform-project/raw/main/template1-designer%20(1).png)
+![Diagrama da Arquitetura](https://github.com/felipe-lazzaron/terraform-project/blob/main/template1-designer%20(1).png)
 
 
 ### 1. Infraestrutura como Código (IaC) com Terraform:
