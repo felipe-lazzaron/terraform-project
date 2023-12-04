@@ -5,6 +5,9 @@ Neste projeto, a infraestrutura na AWS foi implementada utilizando a abordagem d
 
 ## Infraestrutura Implementada
 
+![Diagrama da Arquitetura](https://github.com/felipe-lazzaron/terraform-project/raw/main/template1-designer%20(1).png)
+
+
 ### 1. Infraestrutura como Código (IaC) com Terraform:
 
 - Utilizou-se o Terraform para criar e gerenciar todos os recursos na AWS.
