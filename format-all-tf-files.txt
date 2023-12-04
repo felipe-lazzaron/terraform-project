@@ -1,0 +1,2 @@
+Run in the root of the repo to format all Terraform files:
+Get-ChildItem -Recurse -Filter '*.tf' | ForEach-Object { terraform fmt $_.FullName }
