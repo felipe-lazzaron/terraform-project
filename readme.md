@@ -92,7 +92,7 @@ Neste projeto, a infraestrutura na AWS foi implementada utilizando a abordagem d
    Novamente, confirme digitando `yes` quando solicitado.
 
 5. **Análise de Custo:**
-   Para obter detalhes adicionais e um relatório detalhado, consulte o arquivo [My Estimate - Calculadora de Preços da AWS.pdf](CAMINHO_COMPLETO_DO_ARQUIVO).
+   Para obter detalhes adicionais e um relatório detalhado, consulte o arquivo [My Estimate - Calculadora de Preços da AWS.pdf](https://github.com/felipe-lazzaron/terraform-project/blob/main/My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf).
 
 
 ---
